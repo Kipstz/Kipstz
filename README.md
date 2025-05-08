@@ -1,4 +1,4 @@
-# Kipstz 🐧
+# Kipstz 🤌
 
 <p align="center"><i>“Je n'ai jamais aimé attendre... ni être attendu.”</i></p>
 <p align="center">Ce n’est pas un profil. C’est une interface cryptée. Seuls les esprits affûtés y entreverront le véritable système derrière les apparences.</p>
