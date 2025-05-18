@@ -33,7 +33,7 @@ Chaque ligne que j’écris est un fragment de vérité en sommeil.
 
 ## 🧬 Projets Stratégiques
 
-### 🌌 [VisionRP](https://discord.gg/visionrp)
+### 🌌 Anciennement VisionRP
 > **Un serveur RP FiveM nouvelle génération**.  
 > Réinvention totale de l’expérience roleplay : systèmes dynamiques, intelligence sociale simulée, scripts comportementaux adaptatifs.  
 > VisionRP n’est pas un serveur. C’est un écosystème vivant.
