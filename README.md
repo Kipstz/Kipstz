@@ -29,26 +29,6 @@ Chaque ligne que j’écris est un fragment de vérité en sommeil.
 > "Je ne choisis pas mes outils pour ce qu’ils font.  
 > Je les choisis pour ce qu’ils permettent de comprendre."
 
----
-
-## 🧬 Projets Stratégiques
-
-### 🌌 Anciennement VisionRP
-> **Un serveur RP FiveM nouvelle génération**.  
-> Réinvention totale de l’expérience roleplay : systèmes dynamiques, intelligence sociale simulée, scripts comportementaux adaptatifs.  
-> VisionRP n’est pas un serveur. C’est un écosystème vivant.
-
-<p align="center">
-  <img src="https://media.tenor.com/8eK3Np3tCuUAAAAC/anime-code.gif" width="380" />
-</p>
-
-### 🧿 PoPaAP
-> **Classé.**  
-> Peu savent ce que c’est. Encore moins savent pourquoi ça existe.  
-> Disons simplement : ce projet n’est pas prévu pour la majorité.
-
----
-
 ## 📊 Résonance Numérique
 
 <p align="center">
