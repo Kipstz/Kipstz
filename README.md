@@ -20,10 +20,10 @@ Chaque ligne que j’écris est un fragment de vérité en sommeil.
 
 ```
 🎯 Frontend :    HTML • CSS • SCSS • JS • TS • React  
-⚙️ Backend :     Node.js • Express • Golang • LUA  
-🗄️ Bases :       MySQL • MariaDB • MongoDB  
-🔧 Outils :       Git • JetBrains • VSCode • Bash  
-🛑 Rejetés :      Python • PHP
+⚙️ Backend  :    Node.js • Express • Golang • LUA  
+🗄️ Bases    :    MySQL • MariaDB • MongoDB  
+🔧 Outils   :    Git • JetBrains • VSCode • Bash  
+🛑 Rejetés  :    Python • PHP
 ```
 
 > "Je ne choisis pas mes outils pour ce qu’ils font.  
