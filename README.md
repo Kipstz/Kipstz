@@ -1,150 +1,125 @@
-<h1 align="center">Hey, I'm <a href="https://github.com/Kipstz">Kipstz</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Building+real+products;Shipping+things+that+matter" alt="Typing SVG" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Kipstz&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=180&section=header&text=Kipstz&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Kipstz&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" alt="Kipstz" />
+</picture>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kipstz&style=flat-square&color=58A6FF" alt="Profile views" />
-</p>
+<a href="https://github.com/Kipstz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Fullstack+Developer;Landing+page+%E2%86%92+database+layer;I+ship+products+people+actually+use" alt="Fullstack Developer" />
+</a>
 
----
+<br/>
 
-### Who I am
+<img src="https://img.shields.io/badge/-fullstack-58A6FF?style=flat-square&labelColor=0d1117" alt="fullstack" />
+<img src="https://img.shields.io/badge/-ship_fast-1f6feb?style=flat-square&labelColor=0d1117" alt="ship fast" />
+<img src="https://img.shields.io/badge/-from_scratch-238636?style=flat-square&labelColor=0d1117" alt="from scratch" />
 
-I'm a fullstack developer who builds products from scratch — from the landing page to the database layer. I don't just write code, I ship platforms that people actually use. Currently working on three products across different industries: gaming, tourism, and crypto payments.
+<br/>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Kipstz&style=flat-square&color=58A6FF&label=profile+views" alt="profile views" />
 
-### What I'm building
+</div>
+
+<br/>
+
+## <samp>// about</samp>
+
+```ts
+const kipstz = {
+  role: "Fullstack Developer",
+  builds: "products end-to-end, frontend to database",
+  industries: ["gaming", "tourism", "web"],
+  philosophy: "ship things that matter",
+};
+```
+
+I don't do half-finished side projects collecting dust — I build platforms from scratch and put them in front of real users, first pixel to final schema. What gets me up is the moment an empty repo turns into something live that people open, click through and come back to.
+
+<br/>
+
+## <samp>// projects</samp>
 
 <table>
   <tr>
-    <td width="33%">
-      <h3 align="center">LegendDrop</h3>
-      <p align="center">
-        <a href="https://legenddrop.com/">
-          <img src="https://img.shields.io/badge/Live-legenddrop.com-000?style=for-the-badge&logo=googlechrome&logoColor=fff" />
-        </a>
-        <a href="https://github.com/LegendDrop">
-          <img src="https://img.shields.io/badge/Org-GitHub-181717?style=for-the-badge&logo=github" />
-        </a>
+    <td valign="top" width="50%">
+      <h3><a href="https://legenddrop.com/">LegendDrop</a> <img src="https://img.shields.io/badge/live-238636?style=flat-square&labelColor=0d1117" alt="live" /></h3>
+      <p><b>Online case opening platform.</b><br/>Open cases, win items, trade and withdraw — a full-featured case opening experience built from the ground up.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
-      <p align="center"><b>Online case opening platform</b></p>
-      <p align="center">Open cases, win items, trade and withdraw. A full-featured case opening experience built from the ground up.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
+      <p>
+        <a href="https://legenddrop.com/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
+        <a href="https://github.com/LegendDrop"><img src="https://img.shields.io/badge/org-181717?style=flat-square&logo=github&logoColor=white" alt="org" /></a>
       </p>
     </td>
-    <td width="33%">
-      <h3 align="center">StartXperience</h3>
-      <p align="center">
-        <a href="https://startxperience.eu/">
-          <img src="https://img.shields.io/badge/Live-startxperience.eu-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=fff" />
-        </a>
-        <a href="https://github.com/StartXperience">
-          <img src="https://img.shields.io/badge/Org-GitHub-181717?style=for-the-badge&logo=github" />
-        </a>
+    <td valign="top" width="50%">
+      <h3><a href="https://startxperience.eu/">StartXperience</a> <img src="https://img.shields.io/badge/live-238636?style=flat-square&labelColor=0d1117" alt="live" /></h3>
+      <p><b>Tourism SaaS for Malta.</b><br/>Helps tourists discover the best restaurants, nightclubs, parties and events across Malta — all in one place.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
       </p>
-      <p align="center"><b>Tourism SaaS for Malta</b></p>
-      <p align="center">Helping tourists discover the best restaurants, nightclubs, parties and events across Malta — all in one place.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=fff" />
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">GoMakeMoney</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-1DB954?style=for-the-badge&logo=statuspal&logoColor=fff" />
-      </p>
-      <br/>
-      <p align="center"><b>Crypto Payment Service Provider</b></p>
-      <p align="center">A no-KYC, fully crypto-native PSP. Accept and process payments without friction. Built for speed and privacy.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=fff" />
+      <p>
+        <a href="https://startxperience.eu/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
+        <a href="https://github.com/StartXperience"><img src="https://img.shields.io/badge/org-181717?style=flat-square&logo=github&logoColor=white" alt="org" /></a>
       </p>
     </td>
   </tr>
 </table>
 
----
-
-### Tech Stack
-
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br/><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/><sub><b>HTML</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br/><sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br/><sub><b>Golang</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br/><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" /><br/><sub><b>Lua</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" /><br/><sub><b>VSCode</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="JetBrains" /><br/><sub><b>JetBrains</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br/><sub><b>Bash</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><sub><b>Linux</b></sub>
+    <td valign="top">
+      <h3>Basix Agency <img src="https://img.shields.io/badge/agency-1f6feb?style=flat-square&labelColor=0d1117" alt="agency" /> <img src="https://img.shields.io/badge/status-active-238636?style=flat-square&labelColor=0d1117" alt="status active" /></h3>
+      <p><b>Web development agency.</b><br/>Building custom web platforms and products for clients — from concept and design through to a shipped, maintained product.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </p>
     </td>
   </tr>
 </table>
 
+<br/>
+
+## <samp>// stack</samp>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html&theme=dark" alt="frontend stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,mongodb&theme=dark" alt="backend stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,bash,linux&theme=dark" alt="tooling stack" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+$ whoami → fullstack dev who ships
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
+</picture>
+
+</div>
