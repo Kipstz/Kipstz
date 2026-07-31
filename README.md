@@ -7,7 +7,7 @@
 </picture>
 
 <a href="https://github.com/Kipstz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Fullstack+Developer;Landing+page+%E2%86%92+database+layer;I+ship+products+people+actually+use" alt="Fullstack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Fullstack+Developer+%26+Agency+Founder;First+pixel+%E2%86%92+last+migration;I+ship+things+people+actually+use" alt="Fullstack Developer & Agency Founder" />
 </a>
 
 <br/>
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/-fullstack-58A6FF?style=flat-square&labelColor=0d1117" alt="fullstack" />
 <img src="https://img.shields.io/badge/-ship_fast-1f6feb?style=flat-square&labelColor=0d1117" alt="ship fast" />
 <img src="https://img.shields.io/badge/-from_scratch-238636?style=flat-square&labelColor=0d1117" alt="from scratch" />
+<img src="https://img.shields.io/badge/-agency-8957e5?style=flat-square&labelColor=0d1117" alt="agency" />
 
 <br/>
 <br/>
@@ -23,7 +24,7 @@
 
 </div>
 
-<br/>
+---
 
 ## <samp>// about</samp>
 
@@ -31,16 +32,30 @@
 const kipstz = {
   role: "Founder & Fullstack Developer",
   company: "Basix Agency",
-  builds: "products end-to-end, frontend to database",
-  industries: ["gaming", "tourism", "web"],
-  alsoInto: ["reverse engineering", "game dev (s&box)"],
+  ships: "full-stack products, first pixel to last migration",
+  industries: ["gaming", "tourism / events", "web"],
+  alsoInto: ["reverse engineering", "game dev (s&box)", "FiveM roleplay"],
   philosophy: "ship things that matter",
 };
 ```
 
-I run [Basix Agency](https://basix.agency/) and build the products that ship under it. I don't do half-finished side projects collecting dust — I build platforms from scratch and put them in front of real users, first pixel to final schema. What gets me up is the moment an empty repo turns into something live that people open, click through and come back to.
+I run [Basix Agency](https://basix.agency/) and build most of what ships under it myself — front end to database, first pixel to final schema. No half-finished side projects collecting dust: I take platforms from an empty repo to something real users open, click through and come back to.
 
 <br/>
+
+## <samp>// stats</samp>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kipstz&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=transparent&bg_color=00000000&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=238636&card_width=420" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kipstz&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=transparent&bg_color=ffffff00&title_color=1F6FEB&icon_color=1F6FEB&text_color=24292F&ring_color=238636&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kipstz&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=transparent&bg_color=00000000&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=238636&card_width=420" alt="Kipstz's GitHub stats" />
+</picture>
+
+</div>
+
+---
 
 ## <samp>// featured</samp>
 
@@ -68,7 +83,7 @@ I run [Basix Agency](https://basix.agency/) and build the products that ship und
   </tr>
 </table>
 
-<br/>
+---
 
 ## <samp>// built at basix</samp>
 
@@ -76,8 +91,8 @@ I run [Basix Agency](https://basix.agency/) and build the products that ship und
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3><a href="https://legenddrop.com/">LegendDrop</a></h3>
+    <td valign="top" width="50%">
+      <h3><a href="https://legenddrop.com/">LegendDrop</a> <img src="https://img.shields.io/badge/LIVE-238636?style=flat-square" alt="LIVE" /></h3>
       <p><b>Online case opening platform.</b><br/>Open cases, win items, trade and withdraw — a full-featured case opening experience built from the ground up.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -91,8 +106,11 @@ I run [Basix Agency](https://basix.agency/) and build the products that ship und
         <a href="https://github.com/LegendDrop"><img src="https://img.shields.io/badge/org-181717?style=flat-square&logo=github&logoColor=white" alt="org" /></a>
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3><a href="https://startxperience.eu/">StartXperience</a></h3>
+    <td valign="top" width="50%">
+      <table><tr>
+        <td width="56"><img src="assets/logos/startxperience.png" width="48" alt="StartXperience" /></td>
+        <td><h3><a href="https://startxperience.eu/">StartXperience</a> <img src="https://img.shields.io/badge/LIVE-238636?style=flat-square" alt="LIVE" /></h3></td>
+      </tr></table>
       <p><b>Tourism SaaS for Malta.</b><br/>Helps tourists discover the best restaurants, nightclubs, parties and events across Malta — all in one place.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -107,8 +125,26 @@ I run [Basix Agency](https://basix.agency/) and build the products that ship und
         <a href="https://github.com/StartXperience"><img src="https://img.shields.io/badge/org-181717?style=flat-square&logo=github&logoColor=white" alt="org" /></a>
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3>S&amp;E Studios</h3>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <table><tr>
+        <td width="56"><img src="assets/logos/buyxperience.png" width="48" alt="BuyXperience" /></td>
+        <td><h3><a href="https://buyxperience.com/">BuyXperience</a> <img src="https://img.shields.io/badge/LIVE-238636?style=flat-square" alt="LIVE" /></h3></td>
+      </tr></table>
+      <p><b>Ticketing &amp; reservations for events.</b><br/>Platform for organizers and businesses to sell tickets and manage reservations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ticketing-58A6FF?style=flat-square&labelColor=0d1117" alt="Ticketing" />
+        <img src="https://img.shields.io/badge/Reservations-1f6feb?style=flat-square&labelColor=0d1117" alt="Reservations" />
+        <img src="https://img.shields.io/badge/Events-238636?style=flat-square&labelColor=0d1117" alt="Events" />
+        <img src="https://img.shields.io/badge/SaaS-8957e5?style=flat-square&labelColor=0d1117" alt="SaaS" />
+      </p>
+      <p>
+        <a href="https://buyxperience.com/"><img src="https://img.shields.io/badge/visit_site-58A6FF?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="visit site" /></a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>S&amp;E Studios <img src="https://img.shields.io/badge/IN_DEV-d29922?style=flat-square" alt="IN DEV" /></h3>
       <p><b>Game studio.</b><br/>Building games on s&amp;box — Facepunch's Source 2 platform — with gameplay, systems and UI written in C#.</p>
       <p>
         <img src="https://img.shields.io/badge/s%26box-FF0050?style=flat-square&labelColor=0d1117" alt="s&box" />
@@ -119,7 +155,42 @@ I run [Basix Agency](https://basix.agency/) and build the products that ship und
   </tr>
 </table>
 
-<br/>
+---
+
+## <samp>// fivem servers</samp>
+
+<sub>GTA V / FiveM roleplay servers I develop.</sub>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <table><tr>
+        <td width="88"><img src="assets/logos/lscity.png" width="80" alt="LSCity" /></td>
+        <td><h3>LSCity <img src="https://img.shields.io/badge/COMMUNITY-8b949e?style=flat-square" alt="COMMUNITY" /></h3></td>
+      </tr></table>
+      <p><b>FiveM roleplay server — Los Santos City.</b><br/>Roleplay server I develop, systems and gameplay built from the ground up.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&labelColor=0d1117" alt="FiveM" />
+        <img src="https://img.shields.io/badge/GTA_V-58A6FF?style=flat-square&labelColor=0d1117" alt="GTA V" />
+        <img src="https://img.shields.io/badge/Roleplay-238636?style=flat-square&labelColor=0d1117" alt="Roleplay" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <table><tr>
+        <td width="88"><img src="assets/logos/redside.png" width="80" alt="RedSide" /></td>
+        <td><h3>RedSide <img src="https://img.shields.io/badge/COMMUNITY-8b949e?style=flat-square" alt="COMMUNITY" /></h3></td>
+      </tr></table>
+      <p><b>FiveM roleplay server.</b><br/>Roleplay server I develop, systems and gameplay built from the ground up.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&labelColor=0d1117" alt="FiveM" />
+        <img src="https://img.shields.io/badge/GTA_V-58A6FF?style=flat-square&labelColor=0d1117" alt="GTA V" />
+        <img src="https://img.shields.io/badge/Roleplay-238636?style=flat-square&labelColor=0d1117" alt="Roleplay" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## <samp>// reverse engineering</samp>
 
@@ -132,7 +203,7 @@ Beyond shipping products, I also work low-level. I reverse-engineered FiveM (the
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
-<br/>
+---
 
 ## <samp>// stack</samp>
 
@@ -151,7 +222,7 @@ Beyond shipping products, I also work low-level. I reverse-engineered FiveM (the
 <div align="center">
 
 ```
-$ whoami → fullstack dev who ships
+$ whoami → fullstack dev, agency founder, ships things
 ```
 
 <picture>
